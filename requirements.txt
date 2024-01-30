@@ -4,4 +4,3 @@ numpy
 tensorflow
 pillow
 thread6
-os
