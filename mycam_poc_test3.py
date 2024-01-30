@@ -1,10 +1,11 @@
 import streamlit as st
 import cv2
 import numpy as np
-from keras.models import load_model
 from PIL import Image, ImageOps
+from keras.models import load_model
 from threading import Thread
 import os
+
 
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
@@ -14,7 +15,7 @@ current_folder = os.getcwd()
 model_files = [f for f in os.listdir(current_folder) if f.endswith(".h5")]
 
 # Default model
-default_model = "keras_poc.h5"
+default_model = "keras_model.h5"
 
 # Load the initial model
 model = load_model(default_model, compile=False)
