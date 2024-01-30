@@ -1,0 +1,3 @@
+0 Snake
+1 Lizzard
+2 Turtle

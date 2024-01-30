@@ -1,0 +1,11 @@
+0 Pangolin
+1 Rhino
+2 Elephant
+3 Tiger
+4 Turtle
+5 Sumatran Serow
+6 Orangutan
+7 Helmeted Hornbill
+8 Leopard
+9 Human
+10 Default
