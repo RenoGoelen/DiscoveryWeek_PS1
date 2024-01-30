@@ -1,0 +1,7 @@
+streamlit
+cv2
+numpy
+tensorflow
+pillow
+threading
+os
