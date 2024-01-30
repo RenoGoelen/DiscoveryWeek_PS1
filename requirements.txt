@@ -3,5 +3,5 @@ opencv-python
 numpy
 tensorflow
 pillow
-threading
+thread6
 os
